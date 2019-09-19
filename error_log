@@ -1,0 +1,4 @@
+[15-Jul-2016 06:59:06 America/Chicago] PHP Fatal error:  Call to a member function next_row() on a non-object in /home/radspider/public_html/rfq/application/views/home.php on line 57
+[15-Jul-2016 07:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/radspider/public_html/rfq/application/controllers/Welcome.php on line 76
+[15-Jul-2016 07:26:26 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/radspider/public_html/rfq/application/controllers/Welcome.php on line 27
+[15-Jul-2016 08:02:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/radspider/public_html/rfq/application/controllers/Welcome.php on line 82
